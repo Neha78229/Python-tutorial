@@ -1,0 +1,18 @@
+1) git init
+2) git add .  ( we only tell git to add but not save it or commit it)
+3)git commit -m "message"
+
+command to configure GitHub using git 
+  git config --global user.email "nehab1374@gmail.com"
+  git config --global user.name "Neha78229"
+
+4)check your branch 
+git  branch(check branch)
+git branch -M  main
+ 
+
+
+check remote is added already or not using this command :   git remote -v
+5) git remote add origin https://github.com/Neha78229/Python-tutorial.git
+
+6) git push origin main
