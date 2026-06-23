@@ -1,0 +1,24 @@
+oops(object oriented programming):It is used to store data inside a particular object of class
+
+class entity(logic):It store two main things functionality & Data(variables).
+object:It is real-entity(implementation) we can create as many as possible object for a single class.
+
+
+Person:
+  id
+  name
+  address
+  phone no
+
+  
+
+  p1(1,'Harshada','godhani',"1234567890")
+  p2(2,'Falguni','godhani',"1234567891")
+  p3(3,'Neha','godhani',"1234567892")
+
+
+  constructor:It is used to intialize object of class.It call automatically whenever object of class will 
+  create.
+
+def __init__(self):
+
